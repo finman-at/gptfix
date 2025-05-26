@@ -40,6 +40,8 @@ The full source code is public and available for review.
 
 The extension will now appear and run on `chatgpt.com`.
 
+Or directly via [chrome web store](https://chromewebstore.google.com/detail/chatgpt-prefixpostfix-hel/fmipmghianiofgdnfdkamianenpleeah)
+
 ---
 
 ## 📄 License
